@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import ContactItem from './ContactItem';
-import styles from './Phonebook.module.css';
+import ContactItem from '../ContactItem/ContactItem';
+import styles from '../Phonebook.module.css';
 
 class ContactList extends Component {
   static propTypes = {

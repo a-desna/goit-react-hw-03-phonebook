@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import styles from './Phonebook.module.css';
+import styles from '../Phonebook.module.css';
 
 class ContactItem extends Component {
   static propTypes = {

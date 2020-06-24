@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from './Phonebook.module.css';
+import styles from '../Phonebook.module.css';
 
 class ContactFilter extends Component {
   state = {
